@@ -12,3 +12,11 @@ This is a basic calculator built using Python for the CodSoft Internship.
 ▶️ How to Run:
 1. Open terminal in VS Code
 2. Run the command:
+
+
+📹 Demo Video:
+(Will be added after recording)
+
+---
+
+Internship: CodSoft – Python Programming**
